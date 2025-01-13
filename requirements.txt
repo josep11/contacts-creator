@@ -63,7 +63,7 @@ platformdirs==4.2.2
 pluggy==1.5.0
 prompt_toolkit==3.0.47
 proto-plus==1.24.0
-protobuf==4.25.3
+protobuf==5.29.3
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyasn1==0.6.0
