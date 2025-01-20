@@ -86,7 +86,7 @@ pyobjc-framework-AppleScriptObjC==10.3.1
 pyobjc-framework-ApplicationServices==10.3.1
 pyobjc-framework-AppTrackingTransparency==10.3.1
 pyobjc-framework-AudioVideoBridging==10.3.1
-pyobjc-framework-AuthenticationServices==10.3.1
+pyobjc-framework-AuthenticationServices==11.0
 pyobjc-framework-AutomaticAssessmentConfiguration==10.3.1
 pyobjc-framework-Automator==10.3.1
 pyobjc-framework-AVFoundation==10.3.1
